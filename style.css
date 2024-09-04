@@ -32,6 +32,9 @@ header a {
     text-decoration: none; /* Removes underline */
     margin: 0 20px; /* Adds space between links */
 }
+header a:hover{
+    color: blue;
+}
 .h1{
     font-size: 28px;
     text-align: center;
